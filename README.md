@@ -1,0 +1,1 @@
+Computer Vision was unable to detect other color rather than white. It was also detecting other colors as white but was classifying entry and exit properly. it was also classifying white paper . This all problems i faced.
